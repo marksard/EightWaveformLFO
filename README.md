@@ -43,4 +43,28 @@ Eight Waveform LFO for Eurorack
 
 ![img](_data/EightWaveformLFO_rev1.0.0.png)
 
-## Demonstration
+## Waveform
+
+Square
+![img](_data/ewlfo_wave_squ.png)  
+
+Triangle
+![img](_data/ewlfo_wave_tri.png)  
+
+Sine
+![img](_data/ewlfo_wave_sin.png)  
+
+Pulse
+![img](_data/ewlfo_wave_pulse1.png)  
+![img](_data/ewlfo_wave_pulse2.png)  
+
+Saw
+![img](_data/ewlfo_wave_saw_down.png)  
+![img](_data/ewlfo_wave_saw_up.png)  
+
+Sine
+![img](_data/ewlfo_wave_sin_down.png)  
+![img](_data/ewlfo_wave_sin_up.png)  
+
+Sync
+![img](_data/ewlfo_wave_sync.png)  

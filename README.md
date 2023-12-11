@@ -41,6 +41,6 @@ Eight Waveform LFO for Eurorack
 
 ## Schematic
 
-![img](_data/EightWaveformLFO_rev1.0.0)
+![img](_data/EightWaveformLFO_rev1.0.0.png)
 
 ## Demonstration

@@ -33,7 +33,7 @@ Eight Waveform LFO for Eurorack
 |:--|:--|
 |Freq Pot|Frequency|
 |Shape Pot|Wave shape|
-|Range|LOW:28Sec~10Hz<br>HIGH:8Hz~2kHz|
+|Range|LOW:28Sec ~ 10Hz<br>HIGH:8Hz ~ 2kHz|
 |Gain|Attenuator for Adjust In|
 |Offset|DC Offset for Adjust In|
 

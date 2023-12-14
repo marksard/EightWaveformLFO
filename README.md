@@ -38,6 +38,7 @@ Eight Waveform LFO for Eurorack
 |Offset|DC Offset for Adjust In|
 
 ## Image
+![img](https://marksard.github.io/assets/photos/20231214_IMGP8466.jpg)
 
 ## Schematic
 
